@@ -1,6 +1,6 @@
 Option Explicit
 
-Sub ConvertTableToRangeCommon()
+Sub ConvertTableToRange()
 
 Dim xSheet As Worksheet
 Dim xList As ListObject
