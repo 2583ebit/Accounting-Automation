@@ -1,0 +1,1 @@
+Excel worksheets are often protected with passwords to prevent accidental changes and maintain data integrity. This code saves time by unprotecting all your worksheets using your password, allowing you to fully access and work with the entire workbook.
