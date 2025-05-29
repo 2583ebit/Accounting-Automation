@@ -1,0 +1,1 @@
+This VBA macro converts a specified range of cells in an Excel worksheet into an Excel Table (ListObject). Tables provide enhanced data management features such as sorting, filtering, and dynamic ranges, making them ideal for organizing and analyzing data efficiently.
