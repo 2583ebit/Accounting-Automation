@@ -1,0 +1,2 @@
+A simple, customizable VBA progress bar built for Excel UserForms. It visually tracks the completion percentage of long-running processes by dynamically updating a label’s position and percentage display. Designed to enhance user experience during macro execution by providing real-time progress feedback and optionally closing the form automatically when complete.
+Can be called from other VBA modules to easily integrate progress tracking into any macro or automation workflow.
